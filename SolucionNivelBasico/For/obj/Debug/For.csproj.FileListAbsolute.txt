@@ -1,0 +1,6 @@
+C:\Cursos\C#\SolucionNivelBasico\For\bin\Debug\For.exe.config
+C:\Cursos\C#\SolucionNivelBasico\For\bin\Debug\For.exe
+C:\Cursos\C#\SolucionNivelBasico\For\bin\Debug\For.pdb
+C:\Cursos\C#\SolucionNivelBasico\For\obj\Debug\For.csproj.CoreCompileInputs.cache
+C:\Cursos\C#\SolucionNivelBasico\For\obj\Debug\For.exe
+C:\Cursos\C#\SolucionNivelBasico\For\obj\Debug\For.pdb

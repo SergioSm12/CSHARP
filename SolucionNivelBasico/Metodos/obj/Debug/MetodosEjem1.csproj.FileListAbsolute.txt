@@ -1,0 +1,7 @@
+C:\Cursos\C#\SolucionNivelBasico\Metodos\bin\Debug\Metodos.exe.config
+C:\Cursos\C#\SolucionNivelBasico\Metodos\bin\Debug\Metodos.exe
+C:\Cursos\C#\SolucionNivelBasico\Metodos\bin\Debug\Metodos.pdb
+C:\Cursos\C#\SolucionNivelBasico\Metodos\obj\Debug\MetodosEjem1.csproj.AssemblyReference.cache
+C:\Cursos\C#\SolucionNivelBasico\Metodos\obj\Debug\MetodosEjem1.csproj.CoreCompileInputs.cache
+C:\Cursos\C#\SolucionNivelBasico\Metodos\obj\Debug\Metodos.exe
+C:\Cursos\C#\SolucionNivelBasico\Metodos\obj\Debug\Metodos.pdb

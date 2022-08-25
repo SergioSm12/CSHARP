@@ -1,0 +1,14 @@
+C:\Cursos\C#\FundamentosCSHARP\FundamentosCSHARP\bin\Debug\netcoreapp3.1\FundamentosCSHARP.exe
+C:\Cursos\C#\FundamentosCSHARP\FundamentosCSHARP\bin\Debug\netcoreapp3.1\FundamentosCSHARP.deps.json
+C:\Cursos\C#\FundamentosCSHARP\FundamentosCSHARP\bin\Debug\netcoreapp3.1\FundamentosCSHARP.runtimeconfig.json
+C:\Cursos\C#\FundamentosCSHARP\FundamentosCSHARP\bin\Debug\netcoreapp3.1\FundamentosCSHARP.runtimeconfig.dev.json
+C:\Cursos\C#\FundamentosCSHARP\FundamentosCSHARP\bin\Debug\netcoreapp3.1\FundamentosCSHARP.dll
+C:\Cursos\C#\FundamentosCSHARP\FundamentosCSHARP\bin\Debug\netcoreapp3.1\FundamentosCSHARP.pdb
+C:\Cursos\C#\FundamentosCSHARP\FundamentosCSHARP\obj\Debug\netcoreapp3.1\FundamentosCSHARP.csproj.AssemblyReference.cache
+C:\Cursos\C#\FundamentosCSHARP\FundamentosCSHARP\obj\Debug\netcoreapp3.1\FundamentosCSHARP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\C#\FundamentosCSHARP\FundamentosCSHARP\obj\Debug\netcoreapp3.1\FundamentosCSHARP.AssemblyInfoInputs.cache
+C:\Cursos\C#\FundamentosCSHARP\FundamentosCSHARP\obj\Debug\netcoreapp3.1\FundamentosCSHARP.AssemblyInfo.cs
+C:\Cursos\C#\FundamentosCSHARP\FundamentosCSHARP\obj\Debug\netcoreapp3.1\FundamentosCSHARP.csproj.CoreCompileInputs.cache
+C:\Cursos\C#\FundamentosCSHARP\FundamentosCSHARP\obj\Debug\netcoreapp3.1\FundamentosCSHARP.dll
+C:\Cursos\C#\FundamentosCSHARP\FundamentosCSHARP\obj\Debug\netcoreapp3.1\FundamentosCSHARP.pdb
+C:\Cursos\C#\FundamentosCSHARP\FundamentosCSHARP\obj\Debug\netcoreapp3.1\FundamentosCSHARP.genruntimeconfig.cache

@@ -1,0 +1,7 @@
+C:\Cursos\C#\SolucionNivelBasico\MetodoEjem3Parametros\bin\Debug\MetodoEjem3Parametros.exe.config
+C:\Cursos\C#\SolucionNivelBasico\MetodoEjem3Parametros\bin\Debug\MetodoEjem3Parametros.exe
+C:\Cursos\C#\SolucionNivelBasico\MetodoEjem3Parametros\bin\Debug\MetodoEjem3Parametros.pdb
+C:\Cursos\C#\SolucionNivelBasico\MetodoEjem3Parametros\obj\Debug\MetodoEjem3Parametros.csproj.AssemblyReference.cache
+C:\Cursos\C#\SolucionNivelBasico\MetodoEjem3Parametros\obj\Debug\MetodoEjem3Parametros.csproj.CoreCompileInputs.cache
+C:\Cursos\C#\SolucionNivelBasico\MetodoEjem3Parametros\obj\Debug\MetodoEjem3Parametros.exe
+C:\Cursos\C#\SolucionNivelBasico\MetodoEjem3Parametros\obj\Debug\MetodoEjem3Parametros.pdb

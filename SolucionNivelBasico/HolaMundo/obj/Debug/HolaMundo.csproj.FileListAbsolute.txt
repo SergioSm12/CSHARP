@@ -1,0 +1,7 @@
+C:\Cursos\C#\SolucionNivelBasico\HolaMundo\bin\Debug\HolaMundo.exe.config
+C:\Cursos\C#\SolucionNivelBasico\HolaMundo\bin\Debug\HolaMundo.exe
+C:\Cursos\C#\SolucionNivelBasico\HolaMundo\bin\Debug\HolaMundo.pdb
+C:\Cursos\C#\SolucionNivelBasico\HolaMundo\obj\Debug\HolaMundo.csproj.AssemblyReference.cache
+C:\Cursos\C#\SolucionNivelBasico\HolaMundo\obj\Debug\HolaMundo.csproj.CoreCompileInputs.cache
+C:\Cursos\C#\SolucionNivelBasico\HolaMundo\obj\Debug\HolaMundo.exe
+C:\Cursos\C#\SolucionNivelBasico\HolaMundo\obj\Debug\HolaMundo.pdb

@@ -1,0 +1,16 @@
+C:\Cursos\C#\CursoProgramacion\CursoProgramacion\bin\Debug\netcoreapp3.1\CursoProgramacion.exe
+C:\Cursos\C#\CursoProgramacion\CursoProgramacion\bin\Debug\netcoreapp3.1\CursoProgramacion.deps.json
+C:\Cursos\C#\CursoProgramacion\CursoProgramacion\bin\Debug\netcoreapp3.1\CursoProgramacion.runtimeconfig.json
+C:\Cursos\C#\CursoProgramacion\CursoProgramacion\bin\Debug\netcoreapp3.1\CursoProgramacion.runtimeconfig.dev.json
+C:\Cursos\C#\CursoProgramacion\CursoProgramacion\bin\Debug\netcoreapp3.1\CursoProgramacion.dll
+C:\Cursos\C#\CursoProgramacion\CursoProgramacion\bin\Debug\netcoreapp3.1\CursoProgramacion.pdb
+C:\Cursos\C#\CursoProgramacion\CursoProgramacion\obj\Debug\netcoreapp3.1\CursoProgramacion.csproj.AssemblyReference.cache
+C:\Cursos\C#\CursoProgramacion\CursoProgramacion\obj\Debug\netcoreapp3.1\CursoProgramacion.Form1.resources
+C:\Cursos\C#\CursoProgramacion\CursoProgramacion\obj\Debug\netcoreapp3.1\CursoProgramacion.csproj.GenerateResource.cache
+C:\Cursos\C#\CursoProgramacion\CursoProgramacion\obj\Debug\netcoreapp3.1\CursoProgramacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\C#\CursoProgramacion\CursoProgramacion\obj\Debug\netcoreapp3.1\CursoProgramacion.AssemblyInfoInputs.cache
+C:\Cursos\C#\CursoProgramacion\CursoProgramacion\obj\Debug\netcoreapp3.1\CursoProgramacion.AssemblyInfo.cs
+C:\Cursos\C#\CursoProgramacion\CursoProgramacion\obj\Debug\netcoreapp3.1\CursoProgramacion.csproj.CoreCompileInputs.cache
+C:\Cursos\C#\CursoProgramacion\CursoProgramacion\obj\Debug\netcoreapp3.1\CursoProgramacion.dll
+C:\Cursos\C#\CursoProgramacion\CursoProgramacion\obj\Debug\netcoreapp3.1\CursoProgramacion.pdb
+C:\Cursos\C#\CursoProgramacion\CursoProgramacion\obj\Debug\netcoreapp3.1\CursoProgramacion.genruntimeconfig.cache

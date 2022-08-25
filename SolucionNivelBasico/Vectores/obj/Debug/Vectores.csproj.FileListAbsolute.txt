@@ -1,0 +1,6 @@
+C:\Cursos\C#\SolucionNivelBasico\Vectores\bin\Debug\Vectores.exe.config
+C:\Cursos\C#\SolucionNivelBasico\Vectores\bin\Debug\Vectores.exe
+C:\Cursos\C#\SolucionNivelBasico\Vectores\bin\Debug\Vectores.pdb
+C:\Cursos\C#\SolucionNivelBasico\Vectores\obj\Debug\Vectores.csproj.CoreCompileInputs.cache
+C:\Cursos\C#\SolucionNivelBasico\Vectores\obj\Debug\Vectores.exe
+C:\Cursos\C#\SolucionNivelBasico\Vectores\obj\Debug\Vectores.pdb

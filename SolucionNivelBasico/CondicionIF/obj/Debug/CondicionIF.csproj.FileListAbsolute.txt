@@ -1,0 +1,7 @@
+C:\Cursos\C#\SolucionNivelBasico\CondicionIF\bin\Debug\CondicionIF.exe.config
+C:\Cursos\C#\SolucionNivelBasico\CondicionIF\bin\Debug\CondicionIF.exe
+C:\Cursos\C#\SolucionNivelBasico\CondicionIF\bin\Debug\CondicionIF.pdb
+C:\Cursos\C#\SolucionNivelBasico\CondicionIF\obj\Debug\CondicionIF.csproj.AssemblyReference.cache
+C:\Cursos\C#\SolucionNivelBasico\CondicionIF\obj\Debug\CondicionIF.csproj.CoreCompileInputs.cache
+C:\Cursos\C#\SolucionNivelBasico\CondicionIF\obj\Debug\CondicionIF.exe
+C:\Cursos\C#\SolucionNivelBasico\CondicionIF\obj\Debug\CondicionIF.pdb

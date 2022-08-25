@@ -1,0 +1,7 @@
+C:\Cursos\C#\SolucionNivelBasico\Metodosejem2Parametros\bin\Debug\Metodosejem2Parametros.exe.config
+C:\Cursos\C#\SolucionNivelBasico\Metodosejem2Parametros\bin\Debug\Metodosejem2Parametros.exe
+C:\Cursos\C#\SolucionNivelBasico\Metodosejem2Parametros\bin\Debug\Metodosejem2Parametros.pdb
+C:\Cursos\C#\SolucionNivelBasico\Metodosejem2Parametros\obj\Debug\Metodosejem2Parametros.csproj.CoreCompileInputs.cache
+C:\Cursos\C#\SolucionNivelBasico\Metodosejem2Parametros\obj\Debug\Metodosejem2Parametros.exe
+C:\Cursos\C#\SolucionNivelBasico\Metodosejem2Parametros\obj\Debug\Metodosejem2Parametros.pdb
+C:\Cursos\C#\SolucionNivelBasico\Metodosejem2Parametros\obj\Debug\Metodosejem2Parametros.csproj.AssemblyReference.cache

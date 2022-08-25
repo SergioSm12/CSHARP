@@ -1,0 +1,7 @@
+C:\Cursos\C#\SolucionNivelBasico\ConversionTipoDatos\bin\Debug\ConversionTipoDatos.exe.config
+C:\Cursos\C#\SolucionNivelBasico\ConversionTipoDatos\bin\Debug\ConversionTipoDatos.exe
+C:\Cursos\C#\SolucionNivelBasico\ConversionTipoDatos\bin\Debug\ConversionTipoDatos.pdb
+C:\Cursos\C#\SolucionNivelBasico\ConversionTipoDatos\obj\Debug\ConversionTipoDatos.csproj.AssemblyReference.cache
+C:\Cursos\C#\SolucionNivelBasico\ConversionTipoDatos\obj\Debug\ConversionTipoDatos.csproj.CoreCompileInputs.cache
+C:\Cursos\C#\SolucionNivelBasico\ConversionTipoDatos\obj\Debug\ConversionTipoDatos.exe
+C:\Cursos\C#\SolucionNivelBasico\ConversionTipoDatos\obj\Debug\ConversionTipoDatos.pdb

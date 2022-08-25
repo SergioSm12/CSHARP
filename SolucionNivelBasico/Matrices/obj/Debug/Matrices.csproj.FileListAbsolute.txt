@@ -1,0 +1,7 @@
+C:\Cursos\C#\SolucionNivelBasico\Matrices\bin\Debug\Matrices.exe.config
+C:\Cursos\C#\SolucionNivelBasico\Matrices\bin\Debug\Matrices.exe
+C:\Cursos\C#\SolucionNivelBasico\Matrices\bin\Debug\Matrices.pdb
+C:\Cursos\C#\SolucionNivelBasico\Matrices\obj\Debug\Matrices.csproj.AssemblyReference.cache
+C:\Cursos\C#\SolucionNivelBasico\Matrices\obj\Debug\Matrices.csproj.CoreCompileInputs.cache
+C:\Cursos\C#\SolucionNivelBasico\Matrices\obj\Debug\Matrices.exe
+C:\Cursos\C#\SolucionNivelBasico\Matrices\obj\Debug\Matrices.pdb

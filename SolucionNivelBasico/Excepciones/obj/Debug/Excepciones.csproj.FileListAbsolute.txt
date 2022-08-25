@@ -1,0 +1,6 @@
+C:\Cursos\C#\SolucionNivelBasico\Excepciones\bin\Debug\Excepciones.exe.config
+C:\Cursos\C#\SolucionNivelBasico\Excepciones\bin\Debug\Excepciones.exe
+C:\Cursos\C#\SolucionNivelBasico\Excepciones\bin\Debug\Excepciones.pdb
+C:\Cursos\C#\SolucionNivelBasico\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Cursos\C#\SolucionNivelBasico\Excepciones\obj\Debug\Excepciones.exe
+C:\Cursos\C#\SolucionNivelBasico\Excepciones\obj\Debug\Excepciones.pdb

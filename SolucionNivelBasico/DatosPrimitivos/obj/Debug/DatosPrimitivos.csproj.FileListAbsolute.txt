@@ -1,0 +1,7 @@
+C:\Cursos\C#\SolucionNivelBasico\DatosPrimitivos\bin\Debug\DatosPrimitivos.exe.config
+C:\Cursos\C#\SolucionNivelBasico\DatosPrimitivos\bin\Debug\DatosPrimitivos.exe
+C:\Cursos\C#\SolucionNivelBasico\DatosPrimitivos\bin\Debug\DatosPrimitivos.pdb
+C:\Cursos\C#\SolucionNivelBasico\DatosPrimitivos\obj\Debug\DatosPrimitivos.csproj.AssemblyReference.cache
+C:\Cursos\C#\SolucionNivelBasico\DatosPrimitivos\obj\Debug\DatosPrimitivos.csproj.CoreCompileInputs.cache
+C:\Cursos\C#\SolucionNivelBasico\DatosPrimitivos\obj\Debug\DatosPrimitivos.exe
+C:\Cursos\C#\SolucionNivelBasico\DatosPrimitivos\obj\Debug\DatosPrimitivos.pdb
