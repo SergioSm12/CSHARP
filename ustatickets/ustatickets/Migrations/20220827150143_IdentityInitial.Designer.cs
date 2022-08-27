@@ -11,8 +11,8 @@ using ustatickets.Data;
 namespace ustatickets.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20220823171440_Iitial")]
-    partial class Iitial
+    [Migration("20220827150143_IdentityInitial")]
+    partial class IdentityInitial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
