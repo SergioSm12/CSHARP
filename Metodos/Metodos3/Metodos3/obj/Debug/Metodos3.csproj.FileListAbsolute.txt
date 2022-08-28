@@ -1,0 +1,8 @@
+C:\Cursos\C#\Metodos\Metodos3\Metodos3\bin\Debug\Metodos3.exe.config
+C:\Cursos\C#\Metodos\Metodos3\Metodos3\bin\Debug\Metodos3.exe
+C:\Cursos\C#\Metodos\Metodos3\Metodos3\bin\Debug\Metodos3.pdb
+C:\Cursos\C#\Metodos\Metodos3\Metodos3\obj\Debug\Metodos3.csproj.AssemblyReference.cache
+C:\Cursos\C#\Metodos\Metodos3\Metodos3\obj\Debug\Metodos3.csproj.SuggestedBindingRedirects.cache
+C:\Cursos\C#\Metodos\Metodos3\Metodos3\obj\Debug\Metodos3.csproj.CoreCompileInputs.cache
+C:\Cursos\C#\Metodos\Metodos3\Metodos3\obj\Debug\Metodos3.exe
+C:\Cursos\C#\Metodos\Metodos3\Metodos3\obj\Debug\Metodos3.pdb
