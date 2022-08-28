@@ -6,3 +6,11 @@ C:\Cursos\C#\Metodos\Metodos1\Metodos1\obj\Debug\Metodos1.csproj.SuggestedBindin
 C:\Cursos\C#\Metodos\Metodos1\Metodos1\obj\Debug\Metodos1.csproj.CoreCompileInputs.cache
 C:\Cursos\C#\Metodos\Metodos1\Metodos1\obj\Debug\Metodos1.exe
 C:\Cursos\C#\Metodos\Metodos1\Metodos1\obj\Debug\Metodos1.pdb
+C:\Cursos\CSHARP\Metodos\Metodos1\Metodos1\bin\Debug\Metodos1.exe.config
+C:\Cursos\CSHARP\Metodos\Metodos1\Metodos1\bin\Debug\Metodos1.exe
+C:\Cursos\CSHARP\Metodos\Metodos1\Metodos1\bin\Debug\Metodos1.pdb
+C:\Cursos\CSHARP\Metodos\Metodos1\Metodos1\obj\Debug\Metodos1.csproj.AssemblyReference.cache
+C:\Cursos\CSHARP\Metodos\Metodos1\Metodos1\obj\Debug\Metodos1.csproj.SuggestedBindingRedirects.cache
+C:\Cursos\CSHARP\Metodos\Metodos1\Metodos1\obj\Debug\Metodos1.csproj.CoreCompileInputs.cache
+C:\Cursos\CSHARP\Metodos\Metodos1\Metodos1\obj\Debug\Metodos1.exe
+C:\Cursos\CSHARP\Metodos\Metodos1\Metodos1\obj\Debug\Metodos1.pdb
