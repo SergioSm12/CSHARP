@@ -1,0 +1,8 @@
+C:\Cursos\C#\Metodos\Metodos2\Metodos2\bin\Debug\Metodos2.exe.config
+C:\Cursos\C#\Metodos\Metodos2\Metodos2\bin\Debug\Metodos2.exe
+C:\Cursos\C#\Metodos\Metodos2\Metodos2\bin\Debug\Metodos2.pdb
+C:\Cursos\C#\Metodos\Metodos2\Metodos2\obj\Debug\Metodos2.csproj.AssemblyReference.cache
+C:\Cursos\C#\Metodos\Metodos2\Metodos2\obj\Debug\Metodos2.csproj.SuggestedBindingRedirects.cache
+C:\Cursos\C#\Metodos\Metodos2\Metodos2\obj\Debug\Metodos2.csproj.CoreCompileInputs.cache
+C:\Cursos\C#\Metodos\Metodos2\Metodos2\obj\Debug\Metodos2.exe
+C:\Cursos\C#\Metodos\Metodos2\Metodos2\obj\Debug\Metodos2.pdb
