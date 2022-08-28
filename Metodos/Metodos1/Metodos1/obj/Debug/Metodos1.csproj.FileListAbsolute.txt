@@ -1,0 +1,8 @@
+C:\Cursos\C#\Metodos\Metodos1\Metodos1\bin\Debug\Metodos1.exe.config
+C:\Cursos\C#\Metodos\Metodos1\Metodos1\bin\Debug\Metodos1.exe
+C:\Cursos\C#\Metodos\Metodos1\Metodos1\bin\Debug\Metodos1.pdb
+C:\Cursos\C#\Metodos\Metodos1\Metodos1\obj\Debug\Metodos1.csproj.AssemblyReference.cache
+C:\Cursos\C#\Metodos\Metodos1\Metodos1\obj\Debug\Metodos1.csproj.SuggestedBindingRedirects.cache
+C:\Cursos\C#\Metodos\Metodos1\Metodos1\obj\Debug\Metodos1.csproj.CoreCompileInputs.cache
+C:\Cursos\C#\Metodos\Metodos1\Metodos1\obj\Debug\Metodos1.exe
+C:\Cursos\C#\Metodos\Metodos1\Metodos1\obj\Debug\Metodos1.pdb
