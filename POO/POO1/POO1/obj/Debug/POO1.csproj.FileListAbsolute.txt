@@ -1,0 +1,8 @@
+C:\Cursos\C#\POO\POO1\POO1\bin\Debug\POO1.exe.config
+C:\Cursos\C#\POO\POO1\POO1\bin\Debug\POO1.exe
+C:\Cursos\C#\POO\POO1\POO1\bin\Debug\POO1.pdb
+C:\Cursos\C#\POO\POO1\POO1\obj\Debug\POO1.csproj.AssemblyReference.cache
+C:\Cursos\C#\POO\POO1\POO1\obj\Debug\POO1.csproj.SuggestedBindingRedirects.cache
+C:\Cursos\C#\POO\POO1\POO1\obj\Debug\POO1.csproj.CoreCompileInputs.cache
+C:\Cursos\C#\POO\POO1\POO1\obj\Debug\POO1.exe
+C:\Cursos\C#\POO\POO1\POO1\obj\Debug\POO1.pdb
