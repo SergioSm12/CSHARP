@@ -1,0 +1,8 @@
+C:\Cursos\C#\POO\POO2\POO2\bin\Debug\POO2.exe.config
+C:\Cursos\C#\POO\POO2\POO2\bin\Debug\POO2.exe
+C:\Cursos\C#\POO\POO2\POO2\bin\Debug\POO2.pdb
+C:\Cursos\C#\POO\POO2\POO2\obj\Debug\POO2.csproj.AssemblyReference.cache
+C:\Cursos\C#\POO\POO2\POO2\obj\Debug\POO2.csproj.SuggestedBindingRedirects.cache
+C:\Cursos\C#\POO\POO2\POO2\obj\Debug\POO2.csproj.CoreCompileInputs.cache
+C:\Cursos\C#\POO\POO2\POO2\obj\Debug\POO2.exe
+C:\Cursos\C#\POO\POO2\POO2\obj\Debug\POO2.pdb
