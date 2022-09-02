@@ -1,0 +1,8 @@
+C:\Cursos\CSHARP\Arrays\Arrays1\Arrays1\bin\Debug\Arrays1.exe.config
+C:\Cursos\CSHARP\Arrays\Arrays1\Arrays1\bin\Debug\Arrays1.exe
+C:\Cursos\CSHARP\Arrays\Arrays1\Arrays1\bin\Debug\Arrays1.pdb
+C:\Cursos\CSHARP\Arrays\Arrays1\Arrays1\obj\Debug\Arrays1.csproj.AssemblyReference.cache
+C:\Cursos\CSHARP\Arrays\Arrays1\Arrays1\obj\Debug\Arrays1.csproj.SuggestedBindingRedirects.cache
+C:\Cursos\CSHARP\Arrays\Arrays1\Arrays1\obj\Debug\Arrays1.csproj.CoreCompileInputs.cache
+C:\Cursos\CSHARP\Arrays\Arrays1\Arrays1\obj\Debug\Arrays1.exe
+C:\Cursos\CSHARP\Arrays\Arrays1\Arrays1\obj\Debug\Arrays1.pdb
