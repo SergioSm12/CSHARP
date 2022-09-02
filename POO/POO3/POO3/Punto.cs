@@ -9,17 +9,19 @@ namespace POO3
     internal class Punto
     {
         private int x, y;
-
+        private static int contadorDeObjetos= 0;
         public Punto(int x, int y)
         {
             this.x = x;
             this.y = y;
+            contadorDeObjetos ++;
         }
 
         public Punto()
         {
             this.x=0;
             this.y=0;
+            contadorDeObjetos++;
         }
 
         public double DistanciaHasta(Punto otroPunto)
@@ -29,6 +31,11 @@ namespace POO3
 
             double distanciaPuntos= Math.Sqrt(Math.Pow(xDif,2) + Math.Pow(yDif,2));
             return distanciaPuntos;
+        }
+
+        public static int GetContadorDeObjetos()
+        {
+            return contadorDeObjetos;
         }
     }
 }

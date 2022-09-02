@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace POO3
 {
@@ -10,7 +7,16 @@ namespace POO3
     {
         static void Main(string[] args)
         {
-            realizarTarea();
+            //realizarTarea();
+
+            var miVariable = new { Nombre = "Juan", Edad = 19 };
+
+            Console.WriteLine(miVariable.ToString());
+
+            var miOtraVariable = new { Nombre = "Ana", Edad = 25 };
+
+            miVariable=miOtraVariable;
+
             Console.ReadKey();
         }
 
@@ -18,10 +24,12 @@ namespace POO3
         {
             Punto origen = new Punto();
             Punto destino = new Punto(128, 80);
+            Punto otroPunto = new Punto();
 
             double distancia =origen.DistanciaHasta(destino);
 
             Console.WriteLine($"La distancia entre dos puntos es de : {distancia}");
+            Console.WriteLine($"Numero de objetos creados {Punto.GetContadorDeObjetos()}");
         }
     }
 }

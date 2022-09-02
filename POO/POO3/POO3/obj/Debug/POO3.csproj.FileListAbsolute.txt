@@ -6,3 +6,11 @@ C:\Cursos\C#\POO\POO3\POO3\obj\Debug\POO3.csproj.SuggestedBindingRedirects.cache
 C:\Cursos\C#\POO\POO3\POO3\obj\Debug\POO3.csproj.CoreCompileInputs.cache
 C:\Cursos\C#\POO\POO3\POO3\obj\Debug\POO3.exe
 C:\Cursos\C#\POO\POO3\POO3\obj\Debug\POO3.pdb
+C:\Cursos\CSHARP\POO\POO3\POO3\bin\Debug\POO3.exe.config
+C:\Cursos\CSHARP\POO\POO3\POO3\bin\Debug\POO3.exe
+C:\Cursos\CSHARP\POO\POO3\POO3\bin\Debug\POO3.pdb
+C:\Cursos\CSHARP\POO\POO3\POO3\obj\Debug\POO3.csproj.AssemblyReference.cache
+C:\Cursos\CSHARP\POO\POO3\POO3\obj\Debug\POO3.csproj.SuggestedBindingRedirects.cache
+C:\Cursos\CSHARP\POO\POO3\POO3\obj\Debug\POO3.csproj.CoreCompileInputs.cache
+C:\Cursos\CSHARP\POO\POO3\POO3\obj\Debug\POO3.exe
+C:\Cursos\CSHARP\POO\POO3\POO3\obj\Debug\POO3.pdb
