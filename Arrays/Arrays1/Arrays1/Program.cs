@@ -50,9 +50,20 @@ namespace Arrays1
                 new{Nombre="Diana", Edad=35 }
             };
 
+            /*
             for(int i=0; i <= valores.Length; i++)
             {
                 Console.WriteLine(valores[i]);
+            }*/
+            /*
+            for (int i=0; i<=arrayEmpleados.Length; i++)
+            {
+                Console.WriteLine(arrayEmpleados[i].getPerson());
+            }*/
+
+            foreach (Empleados empleado in arrayEmpleados)
+            {
+                Console.WriteLine(empleado.getPerson());
             }
 
             Console.ReadKey();
@@ -61,8 +72,8 @@ namespace Arrays1
         class Empleados
         {
 
-            String nombre;
-            int edad;
+            private String nombre;
+            private int edad;
 
             public Empleados(String nombre, int edad) {
                 this.nombre = nombre;
@@ -71,6 +82,14 @@ namespace Arrays1
 
             }
 
+            public string getPerson()
+            {
+                
+                return "Nombre : " + nombre + " Edad : " + edad;
+            }
+
+           
+           
         }
     }
 }
