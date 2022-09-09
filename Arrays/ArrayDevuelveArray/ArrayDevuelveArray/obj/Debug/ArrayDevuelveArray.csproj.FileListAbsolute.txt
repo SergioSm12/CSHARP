@@ -1,0 +1,8 @@
+C:\Cursos\CSHARP\Arrays\ArrayDevuelveArray\ArrayDevuelveArray\bin\Debug\ArrayDevuelveArray.exe.config
+C:\Cursos\CSHARP\Arrays\ArrayDevuelveArray\ArrayDevuelveArray\bin\Debug\ArrayDevuelveArray.exe
+C:\Cursos\CSHARP\Arrays\ArrayDevuelveArray\ArrayDevuelveArray\bin\Debug\ArrayDevuelveArray.pdb
+C:\Cursos\CSHARP\Arrays\ArrayDevuelveArray\ArrayDevuelveArray\obj\Debug\ArrayDevuelveArray.csproj.AssemblyReference.cache
+C:\Cursos\CSHARP\Arrays\ArrayDevuelveArray\ArrayDevuelveArray\obj\Debug\ArrayDevuelveArray.csproj.SuggestedBindingRedirects.cache
+C:\Cursos\CSHARP\Arrays\ArrayDevuelveArray\ArrayDevuelveArray\obj\Debug\ArrayDevuelveArray.csproj.CoreCompileInputs.cache
+C:\Cursos\CSHARP\Arrays\ArrayDevuelveArray\ArrayDevuelveArray\obj\Debug\ArrayDevuelveArray.exe
+C:\Cursos\CSHARP\Arrays\ArrayDevuelveArray\ArrayDevuelveArray\obj\Debug\ArrayDevuelveArray.pdb
