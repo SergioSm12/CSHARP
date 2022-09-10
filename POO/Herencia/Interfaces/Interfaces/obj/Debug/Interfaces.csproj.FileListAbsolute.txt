@@ -1,0 +1,8 @@
+C:\Cursos\CSHARP\POO\Herencia\Interfaces\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Cursos\CSHARP\POO\Herencia\Interfaces\Interfaces\bin\Debug\Interfaces.exe
+C:\Cursos\CSHARP\POO\Herencia\Interfaces\Interfaces\bin\Debug\Interfaces.pdb
+C:\Cursos\CSHARP\POO\Herencia\Interfaces\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+C:\Cursos\CSHARP\POO\Herencia\Interfaces\Interfaces\obj\Debug\Interfaces.csproj.SuggestedBindingRedirects.cache
+C:\Cursos\CSHARP\POO\Herencia\Interfaces\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Cursos\CSHARP\POO\Herencia\Interfaces\Interfaces\obj\Debug\Interfaces.exe
+C:\Cursos\CSHARP\POO\Herencia\Interfaces\Interfaces\obj\Debug\Interfaces.pdb

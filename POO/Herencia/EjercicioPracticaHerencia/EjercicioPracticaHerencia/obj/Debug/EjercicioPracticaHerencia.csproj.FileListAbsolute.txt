@@ -1,0 +1,8 @@
+C:\Cursos\CSHARP\POO\Herencia\EjercicioPracticaHerencia\EjercicioPracticaHerencia\bin\Debug\EjercicioPracticaHerencia.exe.config
+C:\Cursos\CSHARP\POO\Herencia\EjercicioPracticaHerencia\EjercicioPracticaHerencia\bin\Debug\EjercicioPracticaHerencia.exe
+C:\Cursos\CSHARP\POO\Herencia\EjercicioPracticaHerencia\EjercicioPracticaHerencia\bin\Debug\EjercicioPracticaHerencia.pdb
+C:\Cursos\CSHARP\POO\Herencia\EjercicioPracticaHerencia\EjercicioPracticaHerencia\obj\Debug\EjercicioPracticaHerencia.csproj.AssemblyReference.cache
+C:\Cursos\CSHARP\POO\Herencia\EjercicioPracticaHerencia\EjercicioPracticaHerencia\obj\Debug\EjercicioPracticaHerencia.csproj.SuggestedBindingRedirects.cache
+C:\Cursos\CSHARP\POO\Herencia\EjercicioPracticaHerencia\EjercicioPracticaHerencia\obj\Debug\EjercicioPracticaHerencia.csproj.CoreCompileInputs.cache
+C:\Cursos\CSHARP\POO\Herencia\EjercicioPracticaHerencia\EjercicioPracticaHerencia\obj\Debug\EjercicioPracticaHerencia.exe
+C:\Cursos\CSHARP\POO\Herencia\EjercicioPracticaHerencia\EjercicioPracticaHerencia\obj\Debug\EjercicioPracticaHerencia.pdb
