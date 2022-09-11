@@ -35,6 +35,12 @@ namespace Herencia1
 
             Console.WriteLine("Numero de patas de Babieca " + IBabieca.NumeroPatas());//Solucionar Ambiguedad
 
+            Lagartija Juancho = new Lagartija("Juancho");
+            Juancho.getNombre();
+
+            Humano Juan2 = new Humano("Juan");
+            Juan2.getNombre();
+
             Console.ReadKey();
         }
     }
@@ -54,8 +60,19 @@ namespace Herencia1
     {
         int NumeroPatas();
     }
+    abstract class Animales
+    {
+        public void respirar()
+        {
+            Console.WriteLine("Soy capaz de respirar");
+        }
 
-    class Mamiferos
+        public abstract void getNombre();
+
+
+    }
+
+    class Mamiferos: Animales
     {
 
         private String nombreSerVivo;
@@ -65,19 +82,15 @@ namespace Herencia1
             this.nombreSerVivo = nombreSerVivo;
         }
 
-        public void respirar()
-        {
-            Console.WriteLine("Soy capaz de respirar");
-        }
-
         public void cuidarCrias()
         {
             Console.WriteLine("Cuido de mis crias hasta que se valgan por si solas");
         }
 
-        public void getNombre()
+        //Desarrollar metodo de clase abstracta 
+        public override void getNombre()
         {
-            Console.WriteLine("El nombre del ser vivo es " + nombreSerVivo);
+            Console.WriteLine("El nombre del mamifero es " + nombreSerVivo);
         }
 
         public virtual void pensar()  // virtual indica que este metodo cuando se hereda cambia su comportamiento
@@ -147,7 +160,9 @@ namespace Herencia1
         }
     }
 
-    class Gorila : Mamiferos, IMamiferosTerrestres
+
+
+    sealed class Gorila : Mamiferos, IMamiferosTerrestres //Sealed impide que se herede directamente de esta clase 
     {
 
         public Gorila(string nombreGorila) : base(nombreGorila)
@@ -167,6 +182,19 @@ namespace Herencia1
         public int NumeroPatas()
         {
             return 2;
+        }
+    }
+
+    class Lagartija : Animales
+    {
+        private string NombreReptil;
+        public Lagartija(string NombreReptil)
+        {
+            this.NombreReptil = NombreReptil;
+        }
+        public override void getNombre()
+        {
+           Console.WriteLine("El nombre del reptil es :" + NombreReptil);
         }
     }
 }

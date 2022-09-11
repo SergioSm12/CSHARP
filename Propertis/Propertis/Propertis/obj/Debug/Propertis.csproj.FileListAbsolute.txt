@@ -1,0 +1,8 @@
+C:\Cursos\CSHARP\Propertis\Propertis\Propertis\bin\Debug\Propertis.exe.config
+C:\Cursos\CSHARP\Propertis\Propertis\Propertis\bin\Debug\Propertis.exe
+C:\Cursos\CSHARP\Propertis\Propertis\Propertis\bin\Debug\Propertis.pdb
+C:\Cursos\CSHARP\Propertis\Propertis\Propertis\obj\Debug\Propertis.csproj.AssemblyReference.cache
+C:\Cursos\CSHARP\Propertis\Propertis\Propertis\obj\Debug\Propertis.csproj.SuggestedBindingRedirects.cache
+C:\Cursos\CSHARP\Propertis\Propertis\Propertis\obj\Debug\Propertis.csproj.CoreCompileInputs.cache
+C:\Cursos\CSHARP\Propertis\Propertis\Propertis\obj\Debug\Propertis.exe
+C:\Cursos\CSHARP\Propertis\Propertis\Propertis\obj\Debug\Propertis.pdb

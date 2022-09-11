@@ -1,0 +1,8 @@
+C:\Cursos\CSHARP\Struct\Struct\Struct\bin\Debug\Struct.exe.config
+C:\Cursos\CSHARP\Struct\Struct\Struct\bin\Debug\Struct.exe
+C:\Cursos\CSHARP\Struct\Struct\Struct\bin\Debug\Struct.pdb
+C:\Cursos\CSHARP\Struct\Struct\Struct\obj\Debug\Struct.csproj.AssemblyReference.cache
+C:\Cursos\CSHARP\Struct\Struct\Struct\obj\Debug\Struct.csproj.SuggestedBindingRedirects.cache
+C:\Cursos\CSHARP\Struct\Struct\Struct\obj\Debug\Struct.csproj.CoreCompileInputs.cache
+C:\Cursos\CSHARP\Struct\Struct\Struct\obj\Debug\Struct.exe
+C:\Cursos\CSHARP\Struct\Struct\Struct\obj\Debug\Struct.pdb
