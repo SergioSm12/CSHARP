@@ -13,6 +13,7 @@ namespace ustatickets.Data
 
         protected override void OnModelCreating(ModelBuilder builder)
         {
+            //Definir Compuesta
             builder.Entity<Actor_Movie>().HasKey(am => new
             {
                 am.ActorId,
@@ -20,11 +21,13 @@ namespace ustatickets.Data
 
             });
 
+            //traer foranea de movie
             builder.Entity<Actor_Movie>()
                 .HasOne(m => m.Movie)
                 .WithMany(am => am.Actor_Movies)
                 .HasForeignKey(m => m.MovieId);
-
+           
+            //traer  foranea  de actor 
             builder.Entity<Actor_Movie>()
                 .HasOne(a => a.Actor)
                 .WithMany(am => am.Actor_Movies)
