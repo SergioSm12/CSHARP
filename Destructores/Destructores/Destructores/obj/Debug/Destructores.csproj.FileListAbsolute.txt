@@ -1,0 +1,8 @@
+C:\Cursos\CSHARP\Destructores\Destructores\Destructores\obj\Debug\Destructores.csproj.AssemblyReference.cache
+C:\Cursos\CSHARP\Destructores\Destructores\Destructores\obj\Debug\Destructores.csproj.SuggestedBindingRedirects.cache
+C:\Cursos\CSHARP\Destructores\Destructores\Destructores\obj\Debug\Destructores.csproj.CoreCompileInputs.cache
+C:\Cursos\CSHARP\Destructores\Destructores\Destructores\bin\Debug\Destructores.exe.config
+C:\Cursos\CSHARP\Destructores\Destructores\Destructores\bin\Debug\Destructores.exe
+C:\Cursos\CSHARP\Destructores\Destructores\Destructores\bin\Debug\Destructores.pdb
+C:\Cursos\CSHARP\Destructores\Destructores\Destructores\obj\Debug\Destructores.exe
+C:\Cursos\CSHARP\Destructores\Destructores\Destructores\obj\Debug\Destructores.pdb
