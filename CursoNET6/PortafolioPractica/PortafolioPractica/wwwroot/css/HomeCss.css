@@ -1,0 +1,35 @@
+﻿#foto{
+    width: 200px;
+    margin: 2rem 0;
+    border-radius:50%
+}
+#imagen-dotnet{
+    width: 500px;
+}
+.welcome-section{
+    margin: 5rem 0 10rem 0;
+    color: white;
+}
+
+.welcome-section h1{
+    margin-bottom: 1rem; 
+}
+
+.welcome-section p{
+    font-family: 'Times New Roman';
+    line-height:1.5;
+    font-size:1.25rem;
+}
+
+.cabecera{
+    font-weight: bold;
+}
+
+.skills ul{
+    list-style: none;
+    padding-left:0;
+}
+
+.skills i{
+    font-size: 50px;
+}

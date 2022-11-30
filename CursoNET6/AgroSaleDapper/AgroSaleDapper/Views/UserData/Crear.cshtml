@@ -1,0 +1,35 @@
+﻿@model UserData
+@{
+    ViewData["Title"] = "Create UserData";
+}
+<h1>Create User Data with Daper</h1>
+<h5>User data refers to user data</h5>
+<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+<form asp-controller="UserData" asp-action="Crear">
+    <div class="mb-3">
+        <label asp-for="Name" class="form-label"></label>
+        <input type="text" asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="LastName" class="form-label"></label>
+        <input type="text" asp-for="LastName" class="form-control" />
+        <span asp-validation-for="LastName" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Addres" class="form-label"></label>
+        <input type="text" asp-for="Addres" class="form-control" />
+        <span asp-validation-for="Addres" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="phone" class="form-label"></label>
+        <input type="text" asp-for="phone" class="form-control" />
+        <span asp-validation-for="phone" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-success">SEND</button>
+    <a class="btn btn-secondary" asp-action="Index">Cancel</a>
+</form>
+
+@section Scripts{
+    <partial name="_ValidationScriptsPartial" />
+}

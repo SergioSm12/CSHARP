@@ -1,7 +1,14 @@
+using Portafolio.Servicios;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+//AddTransient --> Trancitorio
+//AddScope ---> Delimintado por una peticion http 
+//AddSingleton ---> Unico siempre sirve la misma instancia  
+builder.Services.AddTransient<IRepositorioProyectos, RepositorioProyectos>();
+
 
 var app = builder.Build();
 

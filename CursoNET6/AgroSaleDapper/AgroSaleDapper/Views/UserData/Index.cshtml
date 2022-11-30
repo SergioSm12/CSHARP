@@ -1,0 +1,46 @@
+﻿@model IEnumerable<UserData>
+@{
+    ViewData["Title"] = "List View Data";
+}
+
+<h1>User Data</h1>
+<h5>user is personal data</h5>
+
+<table class="table col-md-8 table-striped table-bordered">
+    <thead>
+        <tr>
+            <th class="text-center">Actions</th>
+            <th class="text-center">@Html.DisplayNameFor(ud=> ud.Name)</th>
+            <th class="text-center">@Html.DisplayNameFor(ud=> ud.LastName)</th>
+            <th class="text-center">@Html.DisplayNameFor(ud=> ud.Addres)</th>
+            <th class="text-center">@Html.DisplayNameFor(ud=> ud.phone)</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var userData in Model){
+            <tr>
+                <td class="text-center">
+                    <a class="btn btn-primary" asp-action="Update" asp-route-id="@userData.Id"><i class="bi bi-pen"></i></a>
+                    <a class="btn btn-danger" asp-action="Delete" asp-route-id="@userData.Id"><i class="bi bi-trash"></i></a>
+                </td>
+
+                <td class="text-center">
+                   @userData.Name
+                </td>
+                <td class="text-center">
+                    @userData.LastName
+                </td>
+                <td class="text-center">
+                    @userData.Addres
+                </td>
+                <td class="text-center">
+                    @userData.phone
+                </td>
+
+            </tr>
+        }
+    </tbody>
+
+</table>
+
+

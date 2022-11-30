@@ -3,6 +3,7 @@
     "ustatickets": {
       "commandName": "Project",
       "launchBrowser": true,
+      "launchUrl": "Movie",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       },

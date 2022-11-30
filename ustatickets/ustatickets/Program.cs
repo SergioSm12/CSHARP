@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using ustatickets.Data;
+using ustatickets.Data.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -14,6 +15,12 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
     Microsoft.EntityFrameworkCore.ServerVersion.Parse("8.0.23-mysql")
     );
 });
+
+//Service configuration
+builder.Services.AddScoped<IActorService, ActorService>();
+builder.Services.AddScoped<ICinemaService, CinemaService>();
+builder.Services.AddScoped<IMovieService, MovieService>();
+
 builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
 builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
